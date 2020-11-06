@@ -1,4 +1,4 @@
-const Countries = require('../models/Countries')
+const Countries = require('./models/Countries')
 const data = require('./countries.json')
 
 Countries.deleteMany({})

@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-const Countries = require('./models/Countries')
+const Countries = require('./db/models/Countries')
 const parser = require('body-parser')
 const cors = require('cors')
 app.use(cors())

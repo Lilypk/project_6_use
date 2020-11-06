@@ -1,4 +1,4 @@
-const mongoose = require('../db/connection')
+const mongoose = require('../connection')
 
 let Countries = new mongoose.Schema({
     name: {
