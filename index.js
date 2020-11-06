@@ -7,7 +7,7 @@ app.use(cors())
 app.use(parser.json())
 
 app.get('/', (req,res)=>{
-    res.redirect('http://localhost:9002/countries')
+    res.redirect('/countries')
 })
 app.get('/countries', (req,res)=>{
     Countries.find({}).then(countries=>{
