@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Argentina",
+        "capital": "Buenos Aires",
+        "region": "Americas",
+        "languages": [
+        {
+        "name": "Spanish",
+        "nativeName": "Español"
+        }
+        ]
+    },
+    {
+        "name": "Austria",
+        "capital": "Vienna",
+        "region": "Europe",
+        "languages": [
+        {
+        "name": "German",
+        "nativeName": "Deutsch"
+        }
+        ]
+    },
+    {
+        "name": "Cuba",
+        "capital": "Havana",
+        "region": "Americas",
+        "languages": [
+        {
+        "name": "Spanish",
+        "nativeName": "Español"
+        }
+        ]
+    
+    },
+    {
+        "name": "Netherlands",
+        "capital": "Amsterdam",
+        "region": "Europe",
+        "languages": [
+        {
+        "name": "Dutch",
+        "nativeName": "Nederlands"
+        }
+        ]
+    
+    },
+    {
+        "name": "Spain",
+        "capital": "Madrid",
+        "region": "Europe",
+        "languages": [
+        {
+        "name": "Spanish",
+        "nativeName": "Español"
+        }
+        ]
+    }
+    ]
+    
+    
+    
+    
+    
+    
+    
+    
+    
